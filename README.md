@@ -1,1 +1,5 @@
-# KNN_MNIST
+# KNN_FashionMNIST
+
+Environnement : Jupyter 
+
+Bibliothèque : sklearn/matplotlob
