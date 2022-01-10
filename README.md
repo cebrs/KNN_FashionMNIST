@@ -3,4 +3,4 @@ Projet école réalisé en BAC+4 dont le but était d'écrire un code capable de
 
 Environnement : Jupyter 
 
-Bibliothèque : sklearn/matplotlob
+Bibliothèque : sklearn/matplotlib
